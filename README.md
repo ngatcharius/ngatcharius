@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ngatcharius
+- 👀 I’m interested in trainning users on how to code, upgrade my skill by working on many projects 
+- 🌱 I’m currently learning Data Analytics Skill to analyse datas and CopyWriting to learn how to sell.
+- 💞️ I’m looking to collaborate on creating a simple online shop for African users in CodeIgniter...
+- 📫 How to reach me ? : Just type ngatcharius on any social network or ga to https://www.ngatcharius.com
